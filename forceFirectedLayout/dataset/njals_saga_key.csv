@@ -1,0 +1,43 @@
+﻿gender_code,gender
+0,female
+1,male
+2,corporate
+,
+action_code,action_description
+1,descent
+2,marriage or fostering
+3,allegiance or friendship
+4,request or offer assistance
+5,hostility_non-lethal
+6,hostility_lethal
+7,provide or discover information
+8,giftgiving
+9,inheritance or succession
+10,placed in command
+11,death_non-hostile
+12,conversation
+13,betrothal
+14,accusation or summons
+15,insult
+16,lying
+17,threat
+18,invitation
+19,intervention
+20,challenge
+,
+Role_code,Role_desc
+1,parent
+2,sibling
+3,foster parent
+4,foster sibling
+5,spouse
+6,nephew or niece
+,
+Rel_code,Rel_desc
+1,affinal-cosanguineous
+2,affinal-conjugal
+3,friendship
+4,neighbor
+5,enmity
+6,unspecified
+7,affinal-foster

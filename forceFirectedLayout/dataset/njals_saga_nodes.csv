@@ -1,0 +1,708 @@
+node_id,node_label,node_gender
+1,Mord Sighvatson Gigja,1
+2,Sighvat the Red,1
+3,Unn Mardardottir,0
+4,Hoskuld Dala-Kollsson,1
+5,Dala-Koll,1
+6,Thorgerd Thorsteinsdottir,0
+7,Thorstein Olafsson the Red,1
+8,Olaf Ingjaldsson the White,1
+9,Ingjald Helgason,1
+10,Helgi,1
+11,Thora,0
+12,Sigurd Snake-in-the-eye,1
+13,Ragnar Shaggy-breeches,1
+14,Unn the Deep-minded,0
+15,Ketil Flat-nose,1
+16,Bjorn Buna,1
+17,Hrut Herjolfsson,1
+18,Herjolf,1
+19,Hallgerd Hoskuldsdottir Long-hose,0
+20,Thorleik Hoskuldsson,1
+21,Bolli Thorleiksson,1
+22,Olaf Hoskuldsson Peacock,1
+23,Kjartan Olafsson,1
+24,Bard Hoskuldsson,1
+25,Thjostolf Bjarnarson,1
+26,Bjorn Gold-bearer,1
+27,Ozur,1
+28,Eyvind,1
+29,Harald Eiriksson Grey-cloak,1
+30,Eirik Haraldsson Blood-axe,1
+31,Harald Halfdanarson Fair-hair,1
+32,Gunnhild Ozurardottir,0
+33,Ozur Toti,1
+34,Soti,1
+35,Ogmund,1
+36,Ulf the Unwashed,1
+37,Atli Arnvidsson,1
+38,Earl Arnvid of Gotland,1
+39,Hakon Haraldsson,1
+40,King Athelstan,1
+41,Asolf,1
+42,Gudrod Eiriksson,1
+43,Sigmund Ozurarson,1
+44,Jorund Hrafnsson the Godi,1
+45,Thjostolf   ,1
+46,Thorvald Osvifsson,1
+47,Osvif,1
+48,Svan from Svanshol,1
+49,Ljot the Black,1
+50,Thorarin Oleifsson,1
+51,Ragi Oleifsson,1
+52,Glum Oleifsson,1
+53,Oleif Hjalti,1
+54,Hrafn Haengsson,1
+55,Thorgerd   ,0
+56,Thorgerd Glumsdottir,0
+57,Sigurd Fafnisbani,1
+58,Gunnar Hamundarson,1
+59,Rannveig Sigfusdottir,0
+60,Sigfus Sighvatson,1
+61,Hamund Gunnarsson,1
+62,Gunnar Baugsson,1
+63,Hrafnhild Storolfsdottir,0
+64,Storolf Haengsson,1
+65,Orm Storolfsson the Strong,1
+66,Kolskegg Hamundarson,1
+67,Hjort Hamundarson,1
+68,Orm Skogarnef,1
+69,Arngunn Hamundardottir,0
+70,Hroar Unason the Godi of Tunga,1
+71,Uni Gardarsson the Unborn,1
+72,Gardar,1
+73,Hamund Hroarsson the Lame,1
+74,Njal Thorgeirsson,1
+75,Thorgeir Thorolfsson Gollnir,1
+76,Thorolf,1
+77,Asgerd Askelsdottir,0
+78,Askel the Silent,1
+79,Thorir Thorgeirsson from Holt,1
+80,Thorleif Thorisson Crow,1
+81,Thorgrim Thorisson the Tall,1
+82,Thorgeir Skorargeir Thorisson,1
+83,Bergthora Skarphedinsdottir,0
+84,Skarphedin,1
+85,Valgard Jorundarson the Grey,1
+86,Hrafn the Foolish,1
+87,Valgard,1
+88,Aevar,1
+89,Vemund the Eloquent,1
+90,Thorolf Pus-Nose,1
+91,Thrand the Old,1
+92,Harald War-tooth,1
+93,Hraerek the Ring-scatterer,1
+94,Aud,0
+95,Ivar Vidfadmi,1
+96,Halfdan the Valiant,1
+97,Ulf Jorundarson Aur-Godi,1
+98,Svart,1
+99,Lodmund,1
+100,Sigfus,1
+101,Saemund the Learned,1
+102,Kolbein the Young,1
+103,Mord Valgardsson ,1
+104,Skarphedin Njalsson,1
+105,Grim Njalsson,1
+106,Helgi Njalsson,1
+107,Hoskuld Njalsson,1
+108,Hrodny Hoskuldsdottir,0
+109,Hoskuld ,1
+110,Ingjald Hoskuldsson ,1
+111,Thorhild Hrafnsdottir,0
+112,Hrafn ,0
+113,Astrid of Djuparbakki,0
+114,Asgrim Ellida-Grimsson,1
+115,Ellida-Grim,1
+116,Asgrim,1
+117,Ondott Crow,1
+118,Jorunn Teitsdottir,0
+119,Teit Ketilbjarnarson,1
+120,Ketilbjorn the Old,1
+121,Helga,0
+122,Thord Beard,1
+123,Hrapp,1
+124,Olof,1
+125,Bodvar,1
+126,Viking-Kari,1
+127,Sigfus,1
+128,Thorgerd,0
+129,Gauk Trandilsson,1
+130,Thorhall Asgrimsson (1),1
+131,Thorhall Asgrimsson (2),1
+132,Grim Asgrimsson  ,1
+133,Thorhalla Asgrimsdottir,0
+134,Hallvard the White,1
+135,Hakon Sigurdarson,1
+136,Sigurd,1
+137,Hakon  ,1
+138,Grjotgard,1
+139,Bergljot,0
+140,Earl Thorir,1
+141,Olof Arbot,1
+142,Olvir,1
+143,Vandil Snaeulfsson,1
+144,Karl Snaeulfsson,1
+145,Snaeulf the Old,1
+146,Tofi from Denmark,1
+147,"Hallgrim, a Viking",1
+148,"Kolskegg, a Viking  ",1
+149,Harald Gormsson,1
+150,"Bergljot, kinswoman of Earl Hakon",0
+151,Thrain Sigfusson,1
+152,Thorhild the Poetess,0
+153,Ketil Sigfusson ,1
+154,Thorgerd Njalsdottir,0
+155,Thorkel Sigfusson,1
+156,Mord Sigfusson ,1
+157,Lambi Sigfusson,1
+158,Sigmund Sigfusson  ,1
+159,Sigurd Sigfusson,1
+160,Runolf Ulfsson,1
+161,Helga Njalsdottir,0
+162,Haf the Wise,1
+163,"Kol, overseer at Hlidarendi",1
+164,"Svart, servant at Bergthorshvol",1
+165,"Atli, servant at Bergthorshvol",1
+166,Brynjolf the Brawler,1
+167,Thord Freed-man's son ,1
+168,Sigtrygg,1
+169,Gudfinna Thorolfsdottir,0
+170,Sigmund Lambason,1
+171,Lambi Sighvatsson,1
+172,Skjold,1
+173,Gizur Teitsson the White,1
+174,Isleif Gizurarson the bishop,1
+175,Geir the Godi,1
+176,Thorkatla Ketilbjarnardottir,0
+177,Otkel Skarfsson,1
+178,Skarf,1
+179,Hallkel Ketilsson,1
+180,Grim the Grimsnes,1
+181,Thorgerd Masdottir,0
+182,Mar son of Brondolf,1
+183,Brondolf son of Naddod the Faroese,1
+184,Naddod the Faroese,1
+185,Thorgeir Otkelsson,1
+186,Skammkel,1
+187,Hallkel Skarfsson,1
+188,Hallbjorn Skarfsson the White,1
+189,Melkolf,1
+190,Lambi Sigurdarson,1
+191,Audolf,1
+192,Signy Otkelsdottir,0
+193,Skafti Thoroddsson,1
+194,"Thorodd, father of Skafti",1
+195,Thorvor,0
+196,Thormod Skafti,1
+197,Oleif the Broad,1
+198,Olvir Child-sparer,1
+199,Odd from Kidjaberg,1
+200,Halldor Ornolfsson,1
+201,Starkad Barkarson,1
+202,Bork Black-tooth-beard,1
+203,Thorkel Bound-leg ,1
+204,Hallbera Hroaldsdottir,0
+205,Hroald the Red,1
+206,Hildigunn,0
+207,Thorstein Sparrow,1
+208,Unn,0
+209,Eyvind Karfi,1
+210,Modolf the Wise,1
+211,Thorgeir Starkadarson,1
+212,Bork Starkadarson  ,1
+213,Thorkel Starkadarson,1
+214,Hildigunn Starkadardottir the Healer,0
+215,Egil Kolsson,1
+216,Kol,1
+217,Ottar Boll,1
+218,Onund Kolsson of Trollaskog,1
+219,Halli the Strong,1
+220,Ketil the Smooth-talker,1
+221,Kol Egilsson,1
+222,Ottar Egilsson ,1
+223,Hauk Egilsson,1
+224,Steinvor Barkardottir,0
+225,Gudrun Egilsdottir Night-sun,0
+226,"Thorir, a Norwegian  ",1
+227,"Thorgrim, a Norwegian  ",1
+228,Hoskuld Thrainsson the Godi of Hvitanes  ,1
+229,Hogni Gunnarsson,1
+230,Grani Gunnarsson,1
+231,Ulf Uggason,1
+232,Sigurd Swine-head,1
+233,Ulfhedin,1
+234,Thorfinna,0
+235,Tyrfing at Berjanes,1
+236,Thorkatla Gizurardottir  ,0
+237,Hjalti Skeggjason,1
+238,King Myrkjartan of Ireland,1
+239,Ormhild,0
+240,Onund the Fair,1
+241,Ogmund Floki,1
+242,Hogni the White,1
+243,Arnfinn from Vik,1
+244,Bard the Black,1
+245,Olaf Ketilsson,1
+246,Ketil of Elda,1
+247,Thorbrand Thorleiksson,1
+248,Asbrand Thorleiksson,1
+249,Eilif Onundarson,1
+250,Onund Eilifsson,1
+251,"Thorkel, a farmer",1
+252,Thorkel Elfaraskald,1
+253,Hroald Geirsson  ,1
+254,Bjartey,0
+255,Thorvald the Sickly,1
+256,Tjorvi of Oddi,1
+257,Alfeid Veturlidadottir,0
+258,Veturlidi the Poet,1
+259,Ari ,1
+260,Einar the Shetlander,1
+261,Svein Haraldsson Fork-beard,1
+262,Kol Asmundarson,1
+263,Asmund Ash-side,1
+264,Hallvard Soti,1
+265,Eirik Hakonarson,1
+266,Gunnar Lambason,1
+267,Grjotgard Moldansson,1
+268,Snaekolf Moldansson,1
+269,Moldan of Duncansby,1
+270,"Melkolf, king in Scotland",1
+271,Kari Solmundarson,1
+272,Solmund,1
+273,Sigurd Hlodvisson,1
+274,Hlodver Thorfinnsson,1
+275,Thorfinn Einarsson Skull-splitter,1
+276,Turf-Einar Rognvaldsson,1
+277,"Rognvald, Earl of More",1
+278,Eystein the Noisy,1
+279,"Gilli, earl in the Hebrides",1
+280,Arnljot of Stroma,1
+281,"Hundi, earl in Scotland",1
+282,"Melsnati, earl in Scotland",1
+283,Havard of Freswick,1
+284,"Gudrod, King of the Isle of Man",1
+285,Kolbein Arnljotsson,1
+286,Hrapp Orgumleidason,1
+287,Orgumleidi,1
+288,Geirolf the Warrior,1
+289,Orlyg Olvisson,1
+290,Olvir,1
+291,Hrodgeir the White,1
+292,Gudbrand of Dalarna,1
+293,Thrand Gudbrandsson,1
+294,Gudrun Gudbrandsdottir  ,0
+295,"Asvard, overseer of Gudbrand",1
+296,"Tofi, a Norwegian",1
+297,Svein Hakonarson,1
+298,Mord the Careless,1
+299,Odd Halldorsson,1
+300,Aslak of Langey,1
+301,Egil the standard-bearer,1
+302,"Dungal, son of King Gudrod",1
+303,Nereid ,0
+304,"Lodin, servant of Thrain",1
+305,"Tjorvi, servant of Thrain  ",1
+306,Flosi Thordarson,1
+307,Thord Frey's Godi,1
+308,Ozur,1
+309,Asbjorn,1
+310,Heyjang-Bjorn,1
+311,Helgi,1
+312,"Ingunn, daughter of Thorir of Espihol",0
+313,Thorir of Espihol,1
+314,Hamund Dark-skin,1
+315,Hjor,1
+316,Half,1
+317,Hjorleif the Womanizer,1
+318,"Ingunn, daughter of Helgi the Lean",0
+319,Helgi the Lean,1
+320,Steinvor Hallsdottir ,0
+321,Hall Thorsteinsson of Sida,1
+322,Solvor,0
+323,Herjolf the White,1
+324,Starkad Thordarson ,1
+325,Thraslaug,0
+326,Thorgeir Thordarson,1
+327,Stein Thordarson,1
+328,Kolbein Thordarson  ,1
+329,Egil Thordarson  ,1
+330,Hildigunn Starkadardottir  ,0
+331,Thorstein Bodvarsson,1
+332,"Thordis, daughter of Ozur",0
+333,"Ozur, son of Hrodlaug",1
+334,"Hrodlaug, son of Rognvald of More",1
+335,Joreid Thidrandadottir,0
+336,Thidrandi the Wise,1
+337,Ketil Thrym,1
+338,Thorir Thidrandi of Veradal,1
+339,Ketil Thrym of Njardvik,1
+340,Thorvald,1
+341,Helgi Droplaugarson,1
+342,Hallkatla Thidrandadottir,0
+343,Thorkel Geitisson,1
+344,Thidrandi Geitisson,1
+345,Thorstein Thorsteinsson Broad-belly,1
+346,Kol Thorsteinsson,1
+347,Thorstein Hallsson,1
+348,Egil Sidu-Hallsson  ,1
+349,Thorvard Hallsson,1
+350,Ljot Hallsson,1
+351,Thidrandi Hallsson,1
+352,Lyting from Samsstadir,1
+353,Steinvor Sifgussdottir,0
+354,Amundi Hoskuldsson,1
+355,Hallstein,1
+356,Hallgrim  ,1
+357,Olaf Tryggvason,1
+358,Kark ,1
+359,Thangbrand,1
+360,Vilbaldus of Saxony,1
+361,Gudleif Arason,1
+362,Ari son of Mar,1
+363,Mar son of Atli,1
+364,Atli son of Ulf,1
+365,Ulf the Squinter,1
+366,"Hogni the White, son of Otrygg ",1
+367,Otrygg son of Oblaud,1
+368,Oblaud son of Hjorleif the Womanizer,1
+369,Thorleif Holmsteinsson  ,1
+370,Ketil Holmsteinsson,1
+371,Holmstein son of Ozur from Breiddal,1
+372,Ozur from Breiddal,1
+373,Thorkel of Stafafell,1
+374,Hildir the Old,1
+375,Glum Hildisson,1
+376,Ozur Hroaldsson,1
+377,Surt Asbjarnarson,1
+378,Asbjorn son of Thorstein,1
+379,Thorstein son of Ketil the Foolish,1
+380,Ketil the Foolish,1
+381,Hedin the Sorcerer,1
+382,Ingjald Thorkelsson   ,1
+383,Thorkel Haeyjar-Tyrdil,1
+384,Ari Veturlidason,1
+385,Hall Thorarinsson,1
+386,Thorgils of Reykjaholar,1
+387,Steinunn,0
+388,Ref the Poet,1
+389,Gest Oddleifsson,1
+390,"Otrygg, a berserk",1
+391,Thorgeir Tjorvason the Godi of Ljosavatn,1
+392,Tjorvi son of Thorkel the Long,1
+393,Thorkel the Long,1
+394,"Thorunn, daughter of Thorstein",0
+395,Thorstein son of Sigmund,1
+396,Sigmund son of Gnupa-Bard,1
+397,Gnupa-Bard,1
+398,Gudrid daughter of Thorkel the Black,0
+399,Thorkel the Black,1
+400,Orm Box-back,1
+401,Hlenni Ormsson from Saurbaer,1
+402,Thorir Snepil,1
+403,Ketil Brimil,1
+404,Ornolf son of Bjornulf,1
+405,Bjornolf son of Grim Hairy-cheeks,1
+406,Grim Hairy-cheeks,1
+407,Ketil Haeng,1
+408,Hallbjorn Half-troll,1
+409,Thord Karason,1
+410,Gudmund Eyjolfsson the Powerful,1
+411,Eyjolf son of Einar,1
+412,Einar son of Audun the Rotten,1
+413,Audun the Rotten,1
+414,Thorolf Butter,1
+415,Thorstein Skrofi,1
+416,Grim Kamban,1
+417,Hallbera daughter of Thorodd Helmet,0
+418,Thorodd Helmet,1
+419,Reginleif,0
+420,Saemund the Hebridean,1
+421,Valgerd Runolfsdottir,0
+422,Valborg,0
+423,Jorunn the Unborn,0
+424,Oswald the Saint,1
+425,Bera,0
+426,Edmund the Saint,1
+427,Helga daughter of Helgi the Lean,0
+428,Eyvind the Norwegian,1
+429,Rafarta daughter of Kjarval,0
+430,"Kjarval, king of the Irish",1
+431,Thorunn Hyrna,0
+432,Grim the hersir,1
+433,Hervor daughter of Thorgerd,0
+434,Thorgerd daughter of Haleyg,0
+435,Haleyg of Halogaland,1
+436,Thorlaug daughter of Atli the Mighty,0
+437,Atli the Mighty,1
+438,Eilif the Eagle,1
+439,Bard of Al,1
+440,Ketil the Sly,1
+441,Skidi the Old,1
+442,Herdis daughter of Thord,0
+443,Thord at Hofdi,1
+444,Bjorn Byrdusmjor,1
+445,Hroald Hrygg,1
+446,Bjorn Iron-side,1
+447,Sigurd Ring,1
+448,Randver son of Radbard,1
+449,Radbard,1
+450,Thorgerd Skidadottir,0
+451,Fridgerd daughter of Kjarval,0
+452,Bishop Ketil,1
+453,Snorri Thorgrimsson the Godi,1
+454,Gudrun Osvifsdottir,0
+455,Thorgrim Thorsteinsson,1
+456,Thorstein Cod-biter,1
+457,Thorolf Moster-beard,1
+458,Ornolf Fish-driver,1
+459,Ari Thorgilsson the Learned,1
+460,Thorgils Whale-side,1
+461,Osk daughter of Thorstein the Red,0
+462,Thora daughter of Olaf Feilan,0
+463,Olaf Feilan,1
+464,Thordis Sursdottir,0
+465,Gisli Sursson,1
+466,Geirleif Onundarson,1
+467,Onund Box-back,1
+468,Modolf Ketilsson,1
+469,Kolbein Egilsson,1
+470,Thorgrim the Showy,1
+471,Thorkel the Fair,1
+472,Lodmund Ulfsson,1
+473,Arnor Ornulfsson,1
+474,Hoskuld the White,1
+475,Ingjald the Strong,1
+476,Geirfinn the Red,1
+477,Solvi son of Gunnstein the Berserk-Slayer,1
+478,Gunnstein the Berserk-slayer,1
+479,Thraslaug Egilsdottir,0
+480,Vebrand Hamundarson,1
+481,Rannveig Mardardottir,0
+482,Starkad of Stafafell,1
+483,Thorolf Loftsson,1
+484,Haf Thorkelsson the Wealthy,1
+485,Thorkel son of Eirik of Goddalir,1
+486,Eirik of Goddalir,1
+487,Geirmund son of Hroald,1
+488,Hroald son of Eirik Stiff-beard,1
+489,Eirik Stiff-beard,1
+490,Grjotgard  ,1
+491,Thorunn daughter of Asbjorn the Bald,0
+492,Asbjorn the Bald,1
+493,Hrossbjorn,1
+494,Svanlaug Thorkelsdottir,0
+495,Eydis Iron-sword and Anvil-head,1
+496,Thorkel Thorgeirsson Bully,1
+497,Thorir Helgason,1
+498,Sorkvir the Old,1
+499,Einar of Thvera,1
+500,Thorgrim Stout-Ketilsson,1
+501,Hall the Red,1
+502,Hroald Ozurarson,1
+503,Ozur Onundarson,1
+504,Thorstein Geirleifsson the Fair,1
+505,Geirleif   ,1
+506,Thorir Thordarson,1
+507,Thord Illugi of Mortunga,1
+508,Egil,1
+509,Sigurd Lambason,1
+510,Hroar Hamundarson,1
+511,Saeunn,0
+512,Runolf Thorsteinsson,1
+513,Hildiglum Runolfsson,1
+514,Geirmund  ,1
+515,Thord Freed-man ,1
+516,Bard,1
+517,Thorstein Kolbeinsson,1
+518,Grim the Red,1
+519,Arni Kolsson,1
+520,Eyjolf Bolverksson,1
+521,Iron-Grim,1
+522,Hallbjorn the Strong,1
+523,Oddny Brodd-Helgadottir ,0
+524,Sorli Brodd-Helgason,1
+525,Hrafnkel Thorisson,1
+526,Thorir son of Hrafnkel,1
+527,Hrafnkel son of Hrafn,1
+528,Hrafn,1
+529,Thorir Hrafnkelsson,1
+530,Holmstein Bessason  ,1
+531,Bessi the Wise,1
+532,Bjarni Brodd-Helgasson,1
+533,Thordis Gudmundardottir,0
+534,Thorkel Thrym-Ketilsson the All-wise,1
+535,Thorvald Thrym-Ketilsson,1
+536,Yngvild,0
+537,Thorkel the All-wise,1
+538,Brodd-Helgi Thorgilsson,1
+539,Thorgils son of Thorstein the White,1
+540,Thorstein the White,1
+541,Olvir son of Eyvald,1
+542,Eyvald son of Ox-Thorir,1
+543,Ox-Thorir,1
+544,Halla Lytingsdottir,0
+545,Asvor daughter of Thorir,0
+546,Thorir son of Porridge-Atli,1
+547,Porridge-Atli,1
+548,Rannveig Thorgeirsdottir,0
+549,Thorgeir son of Eirik of Goddalir,1
+550,Bolverk,1
+551,Eyjolf the Grey of Otradal,1
+552,Thord Bellower,1
+553,Hrodny daughter of Skeggi,0
+554,Skeggi from Midfjord,1
+555,Skin-Bjorn,1
+556,Skutad-Skeggi,1
+557,Lyting from Oxarfjord,1
+558,Blaeing from Oxarfjord,1
+559,Hroi Arnsteinsson,1
+560,Kol Skutason  ,1
+561,Killer-Skuta,1
+562,Eyvind Thorkelsson,1
+563,Askel the Godi,1
+564,Einar Konalsson,1
+565,Thorstein Skaftason Hare-lip,1
+566,Jodis Gudmundardottir,0
+567,Leidolf Hamundarson the Strong,1
+568,Askel Thorketilsson the Godi,1
+569,"Thorodd, a witness  ",1
+570,"Thorbjorn, a witness",1
+571,"Jon, a witness",1
+572,Thorvard Tjorvason,1
+573,Halldor Gudmundarson,1
+574,Thorvald Kroppinskeggi,1
+575,"Kol, a villain",1
+576,"Solvi, at the Althing  ",1
+577,Bruni Haflidason,1
+578,Thorstein Hlennason,1
+579,Kol Hallsson,1
+580,Bjorn the White from Mork,1
+581,Kadal son of Bjalfi,1
+582,Bjalfi,1
+583,Valgerd Thorbrandsdottir  ,0
+584,Thorbrand  ,1
+585,Asbrand  ,1
+586,Gudlaug,0
+587,Eyjolf Nose,1
+588,Gunnar of Skal,1
+589,Thorfinn,1
+590,Vebrand Thorfinnsson  ,1
+591,Asbrand Thorfinnsson,1
+592,Kolbein the Black,1
+593,David the White,1
+594,Sigtrygg Olafsson,1
+595,Olaf Kvaran,1
+596,Kormlod,0
+597,Brian,1
+598,Ulf Hraeda,1
+599,Kerthjalfad,1
+600,Kylfir,1
+601,Dungad,1
+602,Margad,1
+603,Tadk,1
+604,Skeggi of Freswick  ,1
+605,Ospak,1
+606,Brodir,1
+607,Hrafn the Red,1
+608,Erling of Stroma,1
+609,Amundi the White,1
+610,Dorrud of Caithness,1
+611,Gunn,1
+612,Gondul,1
+613,Brand Gneistason,1
+614,Harek,1
+615,Herfinn,1
+616,"Melkolf, earl in Scotland ",1
+617,Thorgerd Karadottir,0
+618,Ragnheid Karadottir,0
+619,Valgerd Karadottir,0
+620,Starkad Karason,1
+621,Thord Karason (the younger),1
+622,Flosi Karason,1
+623,Kolbein Flosason,1
+624,friends of Hoskuld,2
+625,Thorvald's household,2
+626,Thorvald's companions,2
+627,One of Hoskuld's servants,1
+628,Gunnar's two companions,2
+629,Some men,2
+630,A farmer at Hrutsstadir,1
+631,Gunnar's neighbours,2
+632,A man on Vandil's ship,1
+633,A Viking,1
+634,Poor men from the east,2
+635,A messenger from Hlidarendi,1
+636,Men from Mork,2
+637,Hallgerd's workmen,2
+638,A messenger from Hallgerd,1
+639,A messenger from Hallgerd - 2,1
+640,A messenger from Hallgerd - 3,1
+641,A shepherd,1
+642,Some people from Thorolfsfell,2
+643,A messenger from Hallgerd - 4,1
+644,A messenger from Hallgerd - 5,1
+645,Itinerant women from Bergthorshvol,2
+646,One of Hallgerd's shepherds,1
+647,Some men at Markarfljot,2
+648,Men from Sida,2
+649,A messenger from Kirkjubaer,1
+650,Women spying for Mord Valgardsson,2
+651,A messenger from Gizur,1
+652,Gunnar's shepherd,1
+653,A woman at Hof,0
+654,A panel of nine neighbours,2
+655,The men from Fljotshlid,2
+656,The men from the Ranga district,2
+657,Farmers in Fljotshlid,2
+658,Gunnar's neighbours,2
+659,The shepherd of Skarphedin and Thorhild,1
+660,Neighbours at the Ranga river,2
+661,A shepherd and a servant woman,2
+662,A wise man,1
+663,A group of merchants,2
+664,Arnljot's men,2
+665,Tofi's wife,0
+666,Four of Hakon's men,2
+667,Some poor women at the Markarfljot,2
+668,A woman at Samsstadir,0
+669,Hrodny's shepherd,1
+670,The heathens at Kerlingardal,2
+671,A man on the road from Haukadal,1
+672,Kinsmen of Thorvald,2
+673,The men from East Fjords,2
+674,200 heathens at Hagi on Bardastrond,2
+675,Lyting's kinsmen,2
+676,Mord's shepherd,1
+677,Nine neighbours at Ossabaer,2
+678,A trouble-maker ,1
+679,Grim Njalsson's children,2
+680,Helgi Njalsson's children,2
+681,Poor women at Holar,2
+682,Household at Bergthorshvol,2
+683,"Women, children, and servants at Bergthorshvol",2
+684,Njal's foreman,1
+685,Some of Kari's friends/allies,2
+686,Nine of Mord's neighbours,2
+687,Asgrim's men,2
+688,Men from Ljosavatn,2
+689,A messsenger,1
+690,A messenger (2),1
+691,Nine men who lived near Thingvellir,2
+692,The man in whose presence the suits were called,1
+693,One of Flosi's men,1
+694,The men from Oxarfjord,2
+695,The men from Reykjadal,2
+696,A man protecting Bjarni,1
+697,Some women at Seljalandsmuli,2
+698,A man with peat baskets,1
+699,A man with the Sigfussons,1
+700,People at Myrdal,2
+701,One of the Sigfussons' men,1
+702,The household at Skal,2
+703,A man on an apple-grey horse,1
+704,Sigurd's banner-bearer,1
+705,Sigurd's second banner-bearer,1
+706,Men from the Hebrides,2
+707,A wealthy woman in Wales,0

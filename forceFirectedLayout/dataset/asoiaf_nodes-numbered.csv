@@ -1,0 +1,797 @@
+id,name,Label
+0,Addam-Marbrand,Addam Marbrand
+1,Aegon-Frey-(son-of-Stevron),Aegon Frey (son of Stevron)
+2,Aegon-I-Targaryen,Aegon I Targaryen
+3,Aegon-Targaryen-(son-of-Rhaegar),Aegon Targaryen (son of Rhaegar)
+4,Aegon-V-Targaryen,Aegon V Targaryen
+5,Aemon-Targaryen-(Dragonknight),Aemon Targaryen (Dragonknight)
+6,Aemon-Targaryen-(Maester-Aemon),Aemon Targaryen (Maester Aemon)
+7,Aenys-Frey,Aenys Frey
+8,Aeron-Greyjoy,Aeron Greyjoy
+9,Aerys-I-Targaryen,Aerys I Targaryen
+10,Aerys-II-Targaryen,Aerys II Targaryen
+11,Aggar,Aggar
+12,Aggo,Aggo
+13,Alayaya,Alayaya
+14,Albett,Albett
+15,Alebelly,Alebelly
+16,Alerie-Hightower,Alerie Hightower
+17,Alester-Florent,Alester Florent
+18,Alla-Tyrell,Alla Tyrell
+19,Allar-Deem,Allar Deem
+20,Allard-Seaworth,Allard Seaworth
+21,Alleras,Alleras
+22,Alliser-Thorne,Alliser Thorne
+23,Alyn,Alyn
+24,Alys-Arryn,Alys Arryn
+25,Alys-Karstark,Alys Karstark
+26,Alysane-Mormont,Alysane Mormont
+27,Amabel,Amabel
+28,Amerei-Frey,Amerei Frey
+29,Amory-Lorch,Amory Lorch
+30,Anders-Yronwood,Anders Yronwood
+31,Andrew-Estermont,Andrew Estermont
+32,Andrey-Dalt,Andrey Dalt
+33,Anguy,Anguy
+34,Anya-Waynwood,Anya Waynwood
+35,Archibald-Yronwood,Archibald Yronwood
+36,Ardrian-Celtigar,Ardrian Celtigar
+37,Areo-Hotah,Areo Hotah
+38,Arianne-Martell,Arianne Martell
+39,Armen,Armen
+40,Arnolf-Karstark,Arnolf Karstark
+41,Aron-Santagar,Aron Santagar
+42,Arron,Arron
+43,Arson,Arson
+44,Arstan,Arstan
+45,Arthor-Karstark,Arthor Karstark
+46,Arthur-Dayne,Arthur Dayne
+47,Arwyn-Oakheart,Arwyn Oakheart
+48,Arya-Stark,Arya Stark
+49,Arys-Oakheart,Arys Oakheart
+50,Asha-Greyjoy,Asha Greyjoy
+51,Ashara-Dayne,Ashara Dayne
+52,Aurane-Waters,Aurane Waters
+53,Axell-Florent,Axell Florent
+54,Azor-Ahai,Azor Ahai
+55,Bael-the-Bard,Bael the Bard
+56,Baelor-Blacktyde,Baelor Blacktyde
+57,Baelor-I-Targaryen,Baelor I Targaryen
+58,Ballabar,Ballabar
+59,Balman-Byrch,Balman Byrch
+60,Balon-Greyjoy,Balon Greyjoy
+61,Balon-Swann,Balon Swann
+62,Bannen,Bannen
+63,Barbrey-Dustin,Barbrey Dustin
+64,Barristan-Selmy,Barristan Selmy
+65,Barsena,Barsena
+66,Bartimus,Bartimus
+67,Bedwyck,Bedwyck
+68,Belaquo,Belaquo
+69,Bellegere-Otherys,Bellegere Otherys
+70,Belwas,Belwas
+71,Ben-Bones,Ben Bones
+72,Ben-Plumm,Ben Plumm
+73,Benedar-Belmore,Benedar Belmore
+74,Benerro,Benerro
+75,Benethon-Scales,Benethon Scales
+76,Benfred-Tallhart,Benfred Tallhart
+77,Benjen-Stark,Benjen Stark
+78,Beric-Dondarrion,Beric Dondarrion
+79,Beth-Cassel,Beth Cassel
+80,Big-Boil,Big Boil
+81,Biter,Biter
+82,Black-Balaq,Black Balaq
+83,Blane,Blane
+84,Bloodbeard,Bloodbeard
+85,Blue-Bard,Blue Bard
+86,Bonifer-Hasty,Bonifer Hasty
+87,Boros-Blount,Boros Blount
+88,Bowen-Marsh,Bowen Marsh
+89,Bran-Stark,Bran Stark
+90,Brandon-Norrey,Brandon Norrey
+91,Brandon-Stark,Brandon Stark
+92,Brea,Brea
+93,Brella,Brella
+94,Brenett,Brenett
+95,Brienne-of-Tarth,Brienne of Tarth
+96,Bronn,Bronn
+97,Brus-Buckler,Brus Buckler
+98,Brusco,Brusco
+99,Bryce-Caron,Bryce Caron
+100,Brynden-Rivers,Brynden Rivers
+101,Brynden-Tully,Brynden Tully
+102,Bump,Bump
+103,Butterbumps,Butterbumps
+104,Byam-Flint,Byam Flint
+105,Caggo,Caggo
+106,Caleotte,Caleotte
+107,Camarron,Camarron
+108,Captain-Myraham,Captain Myraham
+109,Captain-Myraham-Daughter,Captain Myraham Daughter
+110,Catelyn-Stark,Catelyn Stark
+111,Cayn,Cayn
+112,Cedra,Cedra
+113,Cedric-Payne,Cedric Payne
+114,Cellador,Cellador
+115,Cersei-Lannister,Cersei Lannister
+116,Chataya,Chataya
+117,Chayle,Chayle
+118,Chella,Chella
+119,Chett,Chett
+120,Chiggen,Chiggen
+121,Chiswyck,Chiswyck
+122,Clarence-Crabb,Clarence Crabb
+123,Clayton-Suggs,Clayton Suggs
+124,Clement-Piper,Clement Piper
+125,Cleon,Cleon
+126,Cleos-Frey,Cleos Frey
+127,Cletus-Yronwood,Cletus Yronwood
+128,Cley-Cerwyn,Cley Cerwyn
+129,Clubfoot-Karl,Clubfoot Karl
+130,Clydas,Clydas
+131,Cohollo,Cohollo
+132,Coldhands,Coldhands
+133,Colemon,Colemon
+134,Colen-of-Greenpools,Colen of Greenpools
+135,Conn,Conn
+136,Coratt,Coratt
+137,Corliss-Penny,Corliss Penny
+138,Cortnay-Penrose,Cortnay Penrose
+139,Cotter-Pyke,Cotter Pyke
+140,Craster,Craster
+141,Creighton-Longbough,Creighton Longbough
+142,Cressen,Cressen
+143,Cromm,Cromm
+144,Cutjack,Cutjack
+145,Daario-Naharis,Daario Naharis
+146,Dacey-Mormont,Dacey Mormont
+147,Daemon-Sand,Daemon Sand
+148,Daenerys-Targaryen,Daenerys Targaryen
+149,Daeron-I-Targaryen,Daeron I Targaryen
+150,Daeron-II-Targaryen,Daeron II Targaryen
+151,Dagmer,Dagmer
+152,Dalbridge,Dalbridge
+153,Dalla,Dalla
+154,Damon-Dance-for-Me,Damon Dance for Me
+155,Dancy,Dancy
+156,Danwell-Frey,Danwell Frey
+157,Dareon,Dareon
+158,Daryn-Hornwood,Daryn Hornwood
+159,Daven-Lannister,Daven Lannister
+160,Davos-Seaworth,Davos Seaworth
+161,Denyo-Terys,Denyo Terys
+162,Denys-Darklyn,Denys Darklyn
+163,Denys-Mallister,Denys Mallister
+164,Denzo-Dhan,Denzo Dhan
+165,Desmond,Desmond
+166,Desmond-Grell,Desmond Grell
+167,Devan-Seaworth,Devan Seaworth
+168,Dick-Crabb,Dick Crabb
+169,Dick-Follard,Dick Follard
+170,Dick-Straw,Dick Straw
+171,Dirk,Dirk
+172,Dobber,Dobber
+173,Dolf,Dolf
+174,Donal-Noye,Donal Noye
+175,Donella-Hornwood,Donella Hornwood
+176,Donnel-Waynwood,Donnel Waynwood
+177,Dontos-Hollard,Dontos Hollard
+178,Doran-Martell,Doran Martell
+179,Dorcas,Dorcas
+180,Doreah,Doreah
+181,Draqaz,Draqaz
+182,Drennan,Drennan
+183,Drogo,Drogo
+184,Dryn,Dryn
+185,Dunsen,Dunsen
+186,Dunstan-Drumm,Dunstan Drumm
+187,Dywen,Dywen
+188,Ebben,Ebben
+189,Eddard-Stark,Eddard Stark
+190,Eddison-Tollett,Eddison Tollett
+191,Edmure-Tully,Edmure Tully
+192,Edric-Storm,Edric Storm
+193,Edwyn-Frey,Edwyn Frey
+194,Elbert-Arryn,Elbert Arryn
+195,Elder-Brother,Elder Brother
+196,Eldon-Estermont,Eldon Estermont
+197,Elia-Martell,Elia Martell
+198,Elinor-Tyrell,Elinor Tyrell
+199,Ellaria-Sand,Ellaria Sand
+200,Elmar-Frey,Elmar Frey
+201,Elys-Waynwood,Elys Waynwood
+202,Emmett,Emmett
+203,Emmon-Cuy,Emmon Cuy
+204,Emmon-Frey,Emmon Frey
+205,Emmond,Emmond
+206,Emrick,Emrick
+207,Eon-Hunter,Eon Hunter
+208,Eroeh,Eroeh
+209,Errok,Errok
+210,Euron-Greyjoy,Euron Greyjoy
+211,Eustace-Brune,Eustace Brune
+212,Ezzara,Ezzara
+213,Falyse-Stokeworth,Falyse Stokeworth
+214,Farlen,Farlen
+215,Florian-the-Fool,Florian the Fool
+216,Fogo,Fogo
+217,Forley-Prester,Forley Prester
+218,Franklyn-Flowers,Franklyn Flowers
+219,Franklyn-Fowler,Franklyn Fowler
+220,Frenken,Frenken
+221,Frenya,Frenya
+222,Fulk,Fulk
+223,Galazza-Galare,Galazza Galare
+224,Galbart-Glover,Galbart Glover
+225,Galyeon-of-Cuy,Galyeon of Cuy
+226,Gared,Gared
+227,Garin-(orphan),Garin (orphan)
+228,Gariss,Gariss
+229,Garlan-Tyrell,Garlan Tyrell
+230,Garrett-Paege,Garrett Paege
+231,Garth-(Wolfs-Den),Garth (Wolfs Den)
+232,Garth-Greyfeather,Garth Greyfeather
+233,Garth-Tyrell,Garth Tyrell
+234,Gawen-Westerling,Gawen Westerling
+235,Gelmarr,Gelmarr
+236,Gendel,Gendel
+237,Gendry,Gendry
+238,Genna-Lannister,Genna Lannister
+239,Gerald-Gower,Gerald Gower
+240,Gerold-Dayne,Gerold Dayne
+241,Gerold-Grafton,Gerold Grafton
+242,Gerold-Hightower,Gerold Hightower
+243,Gerrick-Kingsblood,Gerrick Kingsblood
+244,Gerris-Drinkwater,Gerris Drinkwater
+245,Ghael,Ghael
+246,Gilly,Gilly
+247,Gilwood-Hunter,Gilwood Hunter
+248,Godric-Borrell,Godric Borrell
+249,Godry-Farring,Godry Farring
+250,Goghor-the-Giant,Goghor the Giant
+251,Gormon-Tyrell,Gormon Tyrell
+252,Gormond-Goodbrother,Gormond Goodbrother
+253,Gorne,Gorne
+254,Gorold-Goodbrother,Gorold Goodbrother
+255,Grazdan-mo-Eraz,Grazdan mo Eraz
+256,Grazhar,Grazhar
+257,Greenbeard,Greenbeard
+258,Gregor-Clegane,Gregor Clegane
+259,Grenn,Grenn
+260,Gretchel,Gretchel
+261,Grey-Worm,Grey Worm
+262,Greydon-Goodbrother,Greydon Goodbrother
+263,Grigg,Grigg
+264,Grimtongue,Grimtongue
+265,Grisel,Grisel
+266,Groleo,Groleo
+267,Grunt,Grunt
+268,Guncer-Sunglass,Guncer Sunglass
+269,Gunthor-son-of-Gurn,Gunthor son of Gurn
+270,Guyard-Morrigen,Guyard Morrigen
+271,Gyles-Grafton,Gyles Grafton
+272,Gyles-Rosby,Gyles Rosby
+273,Gynir,Gynir
+274,Hagen,Hagen
+275,Haggo,Haggo
+276,Haggon,Haggon
+277,Hairy-Hal,Hairy Hal
+278,Hake,Hake
+279,Halder,Halder
+280,Haldon,Haldon
+281,Hali,Hali
+282,Hallis-Mollen,Hallis Mollen
+283,Hallyne,Hallyne
+284,Halys-Hornwood,Halys Hornwood
+285,Hareth-(Moles-Town),Hareth (Moles Town)
+286,Harl,Harl
+287,Harma,Harma
+288,Harra,Harra
+289,Harras-Harlaw,Harras Harlaw
+290,Harren-Hoare,Harren Hoare
+291,Harrold-Hardyng,Harrold Hardyng
+292,Harry-Strickland,Harry Strickland
+293,Harwin,Harwin
+294,Harwood-Stout,Harwood Stout
+295,Harys-Swyft,Harys Swyft
+296,Hayhead,Hayhead
+297,Helman-Tallhart,Helman Tallhart
+298,Hero,Hero
+299,Heward,Heward
+300,High-Septon-(fat_one),High Septon (fat one)
+301,High-Septon-(Tyrions),High Septon (Tyrions)
+302,High-Sparrow,High Sparrow
+303,Hizdahr-zo-Loraq,Hizdahr zo Loraq
+304,Hobb,Hobb
+305,Hobber-Redwyne,Hobber Redwyne
+306,Hodor,Hodor
+307,Holly,Holly
+308,Hop-Robin,Hop Robin
+309,Horas-Redwyne,Horas Redwyne
+310,Horton-Redfort,Horton Redfort
+311,Hosteen-Frey,Hosteen Frey
+312,Hoster-Blackwood,Hoster Blackwood
+313,Hoster-Tully,Hoster Tully
+314,Hot-Pie,Hot Pie
+315,Hother-Umber,Hother Umber
+316,Hotho-Harlaw,Hotho Harlaw
+317,Howland-Reed,Howland Reed
+318,Hugh,Hugh
+319,Hugh-Hungerford,Hugh Hungerford
+320,Hugo-Vance,Hugo Vance
+321,Hullen,Hullen
+322,Humfrey-Hewett,Humfrey Hewett
+323,Husband,Husband
+324,Hyle-Hunt,Hyle Hunt
+325,Illifer,Illifer
+326,Illyrio-Mopatis,Illyrio Mopatis
+327,Ilyn-Payne,Ilyn Payne
+328,Imry-Florent,Imry Florent
+329,Irri,Irri
+330,Jacelyn-Bywater,Jacelyn Bywater
+331,Jack-Be-Lucky,Jack Be Lucky
+332,Jack-Bulwer,Jack Bulwer
+333,Jacks,Jacks
+334,Jaehaerys-I-Targaryen,Jaehaerys I Targaryen
+335,Jafer-Flowers,Jafer Flowers
+336,Jaime-Lannister,Jaime Lannister
+337,Jalabhar-Xho,Jalabhar Xho
+338,Janos-Slynt,Janos Slynt
+339,Jaqen-Hghar,Jaqen Hghar
+340,Jared-Frey,Jared Frey
+341,Jaremy-Rykker,Jaremy Rykker
+342,Jarl,Jarl
+343,Jarman-Buckwell,Jarman Buckwell
+344,Jason-Mallister,Jason Mallister
+345,Jeor-Mormont,Jeor Mormont
+346,Jeyne-Farman,Jeyne Farman
+347,Jeyne-Heddle,Jeyne Heddle
+348,Jeyne-Poole,Jeyne Poole
+349,Jeyne-Westerling,Jeyne Westerling
+350,Jhiqui,Jhiqui
+351,Jhogo,Jhogo
+352,Joanna-Lannister,Joanna Lannister
+353,Jocelyn-Swyft,Jocelyn Swyft
+354,Joffrey-Baratheon,Joffrey Baratheon
+355,Jojen-Reed,Jojen Reed
+356,Jommo,Jommo
+357,Jon-Arryn,Jon Arryn
+358,Jon-Connington,Jon Connington
+359,Jon-Fossoway,Jon Fossoway
+360,Jon-Snow,Jon Snow
+361,Jon-Umber-(Greatjon),Jon Umber (Greatjon)
+362,Jon-Umber-(Smalljon),Jon Umber (Smalljon)
+363,Jonos-Bracken,Jonos Bracken
+364,Jonothor-Darry,Jonothor Darry
+365,Jonquil,Jonquil
+366,Jorah-Mormont,Jorah Mormont
+367,Joramun,Joramun
+368,Jory-Cassel,Jory Cassel
+369,Joseth,Joseth
+370,Josmyn-Peckledon,Josmyn Peckledon
+371,Joss,Joss
+372,Joy-Hill,Joy Hill
+373,Justin-Massey,Justin Massey
+374,Jyck,Jyck
+375,Karyl-Vance,Karyl Vance
+376,Kasporio,Kasporio
+377,Kedry,Kedry
+378,Kegs,Kegs
+379,Kella,Kella
+380,Kerwin,Kerwin
+381,Kevan-Lannister,Kevan Lannister
+382,Khorane-Sathmantes,Khorane Sathmantes
+383,Khrazz,Khrazz
+384,Kindly-Man,Kindly Man
+385,Kojja-Mo,Kojja Mo
+386,Koss,Koss
+387,Kraznys-mo-Nakloz,Kraznys mo Nakloz
+388,Kurleket,Kurleket
+389,Kurz,Kurz
+390,Kyra,Kyra
+391,Lambert-Turnberry,Lambert Turnberry
+392,Lamprey,Lamprey
+393,Lancel-Lannister,Lancel Lannister
+394,Lanna-(Happy-Port),Lanna (Happy Port)
+395,Lark,Lark
+396,Larraq,Larraq
+397,Leaf,Leaf
+398,Leathers,Leathers
+399,Lem,Lem
+400,Lemore,Lemore
+401,Leo-Lefford,Leo Lefford
+402,Leo-Tyrell,Leo Tyrell
+403,Leobald-Tallhart,Leobald Tallhart
+404,Leona-Woolfield,Leona Woolfield
+405,Leonette-Fossoway,Leonette Fossoway
+406,Lewyn-Martell,Lewyn Martell
+407,Lewys-Piper,Lewys Piper
+408,Lollys-Stokeworth,Lollys Stokeworth
+409,Lommy-Greenhands,Lommy Greenhands
+410,Longwater-Pyke,Longwater Pyke
+411,Loras-Tyrell,Loras Tyrell
+412,Lorent-Caswell,Lorent Caswell
+413,Lorren,Lorren
+414,Lothar-Frey,Lothar Frey
+415,Lothor-Brune,Lothor Brune
+416,Lucas-Codd,Lucas Codd
+417,Lucifer-Long,Lucifer Long
+418,Luton,Luton
+419,Luwin,Luwin
+420,Lyanna-Mormont,Lyanna Mormont
+421,Lyanna-Stark,Lyanna Stark
+422,Lyle-Crakehall,Lyle Crakehall
+423,Lyn-Corbray,Lyn Corbray
+424,Lynesse-Hightower,Lynesse Hightower
+425,Lyonel-Corbray,Lyonel Corbray
+426,Lysa-Arryn,Lysa Arryn
+427,Lysono-Maar,Lysono Maar
+428,Mace-Tyrell,Mace Tyrell
+429,Mad-Huntsman,Mad Huntsman
+430,Maddy,Maddy
+431,Maege-Mormont,Maege Mormont
+432,Maegor-I-Targaryen,Maegor I Targaryen
+433,Maekar-I-Targaryen,Maekar I Targaryen
+434,Mag-Mar-Tun-Doh-Weg,Mag Mar Tun Doh Weg
+435,Maggy,Maggy
+436,Malaquo-Maegyr,Malaquo Maegyr
+437,Malegorn,Malegorn
+438,Mallador-Locke,Mallador Locke
+439,Mance-Rayder,Mance Rayder
+440,Mandon-Moore,Mandon Moore
+441,Manfrey-Martell,Manfrey Martell
+442,Margaery-Tyrell,Margaery Tyrell
+443,Marghaz-zo-Loraq,Marghaz zo Loraq
+444,Marillion,Marillion
+445,Mariya-Darry,Mariya Darry
+446,Mark-Mullendore,Mark Mullendore
+447,Marlon-Manderly,Marlon Manderly
+448,Maron-Greyjoy,Maron Greyjoy
+449,Marq-Piper,Marq Piper
+450,Marselen,Marselen
+451,Martyn-Lannister,Martyn Lannister
+452,Martyn-Rivers,Martyn Rivers
+453,Marwyn,Marwyn
+454,Marya-Seaworth,Marya Seaworth
+455,Masha-Heddle,Masha Heddle
+456,Mathis-Rowan,Mathis Rowan
+457,Matthar,Matthar
+458,Matthos-Seaworth,Matthos Seaworth
+459,Mebble,Mebble
+460,Meera-Reed,Meera Reed
+461,Megga-Tyrell,Megga Tyrell
+462,Melara-Hetherspoon,Melara Hetherspoon
+463,Meldred-Merlyn,Meldred Merlyn
+464,Melisandre,Melisandre
+465,Mellei,Mellei
+466,Meralyn,Meralyn
+467,Meribald,Meribald
+468,Meris,Meris
+469,Mero,Mero
+470,Merrett-Frey,Merrett Frey
+471,Merrit,Merrit
+472,Meryn-Trant,Meryn Trant
+473,Mezzara,Mezzara
+474,Mikken,Mikken
+475,Miklaz,Miklaz
+476,Mirri-Maz-Duur,Mirri Maz Duur
+477,Missandei,Missandei
+478,Moelle,Moelle
+479,Mollander,Mollander
+480,Monford-Velaryon,Monford Velaryon
+481,Moon-Boy,Moon Boy
+482,Moqorro,Moqorro
+483,Mord,Mord
+484,Mordane,Mordane
+485,Moreo-Tumitis,Moreo Tumitis
+486,Morgo,Morgo
+487,Morra,Morra
+488,Morrec,Morrec
+489,Mors-Umber,Mors Umber
+490,Mully,Mully
+491,Munda,Munda
+492,Murch,Murch
+493,Murenmure,Murenmure
+494,Mya-Stone,Mya Stone
+495,Mycah,Mycah
+496,Mychel-Redfort,Mychel Redfort
+497,Myles-Toyne,Myles Toyne
+498,Myranda-Royce,Myranda Royce
+499,Myrcella-Baratheon,Myrcella Baratheon
+500,Nage,Nage
+501,Nan,Nan
+502,Narbert,Narbert
+503,Narbert-Grandison,Narbert Grandison
+504,Nestor-Royce,Nestor Royce
+505,Nurse,Nurse
+506,Nute,Nute
+507,Nyessos-Vhassar,Nyessos Vhassar
+508,Nymeria-Sand,Nymeria Sand
+509,Obara-Sand,Obara Sand
+510,Oberyn-Martell,Oberyn Martell
+511,Ogo,Ogo
+512,Old-Bill-Bone,Old Bill Bone
+513,Olenna-Redwyne,Olenna Redwyne
+514,Olyvar-Frey,Olyvar Frey
+515,Orell,Orell
+516,Orton-Merryweather,Orton Merryweather
+517,Osfryd-Kettleblack,Osfryd Kettleblack
+518,Osha,Osha
+519,Osmund-Kettleblack,Osmund Kettleblack
+520,Osney-Kettleblack,Osney Kettleblack
+521,Oswell-Kettleblack,Oswell Kettleblack
+522,Oswell-Whent,Oswell Whent
+523,Othell-Yarwyck,Othell Yarwyck
+524,Othor,Othor
+525,Ottyn-Wythers,Ottyn Wythers
+526,Owen,Owen
+527,Owen-Merryweather,Owen Merryweather
+528,Oznak-zo-Pahl,Oznak zo Pahl
+529,Palla,Palla
+530,Patchface,Patchface
+531,Pate-(novice),Pate (novice)
+532,Pate-(Old),Pate (Old)
+533,Pate-(whipping-boy),Pate (whipping boy)
+534,Patrek-of-Kings-Mountain,Patrek of Kings Mountain
+535,Paxter-Redwyne,Paxter Redwyne
+536,Penny,Penny
+537,Perwyn-Frey,Perwyn Frey
+538,Petyr-Baelish,Petyr Baelish
+539,Petyr-Frey,Petyr Frey
+540,Pia,Pia
+541,Podrick-Payne,Podrick Payne
+542,Polliver,Polliver
+543,Pono,Pono
+544,Porridge,Porridge
+545,Porther,Porther
+546,Poxy-Tym,Poxy Tym
+547,Praed,Praed
+548,Prendahl-na-Ghezn,Prendahl na Ghezn
+549,Preston-Greenfield,Preston Greenfield
+550,Puckens,Puckens
+551,Pyat-Pree,Pyat Pree
+552,Pycelle,Pycelle
+553,Pyg,Pyg
+554,Pylos,Pylos
+555,Pypar,Pypar
+556,Qarl-the-Maid,Qarl the Maid
+557,Qavo-Nogarys,Qavo Nogarys
+558,Qezza,Qezza
+559,Qhorin-Halfhand,Qhorin Halfhand
+560,Qotho,Qotho
+561,Quaithe,Quaithe
+562,Quaro,Quaro
+563,Quellon-Greyjoy,Quellon Greyjoy
+564,Quentyn-Martell,Quentyn Martell
+565,Quhuru-Mo,Quhuru Mo
+566,Quill,Quill
+567,Qyburn,Qyburn
+568,Rafford,Rafford
+569,Ragwyle,Ragwyle
+570,Rakharo,Rakharo
+571,Ralf-(Limper),Ralf (Limper)
+572,Ralf-Stonehouse,Ralf Stonehouse
+573,Ramsay-Snow,Ramsay Snow
+574,Randyll-Tarly,Randyll Tarly
+575,Rast,Rast
+576,Rattleshirt,Rattleshirt
+577,Ravella-Swann,Ravella Swann
+578,Raymun-Darry,Raymun Darry
+579,Raymun-Redbeard,Raymun Redbeard
+580,Raynald-Westerling,Raynald Westerling
+581,Raynard,Raynard
+582,Red-Oarsman,Red Oarsman
+583,Reek,Reek
+584,Renly-Baratheon,Renly Baratheon
+585,Rennifer-Longwaters,Rennifer Longwaters
+586,Reznak-mo-Reznak,Reznak mo Reznak
+587,Rhaegar-Frey,Rhaegar Frey
+588,Rhaegar-Targaryen,Rhaegar Targaryen
+589,Rhaegel-Targaryen,Rhaegel Targaryen
+590,Rhaego,Rhaego
+591,Rhaella-Targaryen,Rhaella Targaryen
+592,Rhaenys-Targaryen,Rhaenys Targaryen
+593,Rhaenys-Targaryen-(daughter-of-Rhaegar),Rhaenys Targaryen (daughter of Rhaegar)
+594,Ricasso,Ricasso
+595,Richard-Horpe,Richard Horpe
+596,Rickard-Karstark,Rickard Karstark
+597,Rickard-Stark,Rickard Stark
+598,Rickon-Stark,Rickon Stark
+599,Robar-Royce,Robar Royce
+600,Robb-Stark,Robb Stark
+601,Robert-Arryn,Robert Arryn
+602,Robert-Baratheon,Robert Baratheon
+603,Robert-Strong,Robert Strong
+604,Robett-Glover,Robett Glover
+605,Robin-Flint,Robin Flint
+606,Robin-Ryger,Robin Ryger
+607,Rodrik-Cassel,Rodrik Cassel
+608,Rodrik-Harlaw,Rodrik Harlaw
+609,Rodrik-Sparr,Rodrik Sparr
+610,Roger-Ryswell,Roger Ryswell
+611,Rolfe-the-Dwarf,Rolfe the Dwarf
+612,Rollam-Westerling,Rollam Westerling
+613,Rolly-Duckfield,Rolly Duckfield
+614,Rolph-Spicer,Rolph Spicer
+615,Ronnet-Connington,Ronnet Connington
+616,Roone,Roone
+617,Roose-Bolton,Roose Bolton
+618,Roose-Ryswell,Roose Ryswell
+619,Rorge,Rorge
+620,Rory,Rory
+621,Rosey,Rosey
+622,Roslin-Frey,Roslin Frey
+623,Rossart,Rossart
+624,Rowan,Rowan
+625,Rugen,Rugen
+626,Rus,Rus
+627,Ryk,Ryk
+628,Ryman-Frey,Ryman Frey
+629,Salladhor-Saan,Salladhor Saan
+630,Sallor,Sallor
+631,Samwell-Tarly,Samwell Tarly
+632,Sandor-Clegane,Sandor Clegane
+633,Sansa-Stark,Sansa Stark
+634,Sarella-Sand,Sarella Sand
+635,Satin,Satin
+636,Sawane-Botley,Sawane Botley
+637,Scar,Scar
+638,Scolera,Scolera
+639,Selwyn-Tarth,Selwyn Tarth
+640,Selyse-Florent,Selyse Florent
+641,Senelle,Senelle
+642,Shadd,Shadd
+643,Shadrich,Shadrich
+644,Shae,Shae
+645,Shagga,Shagga
+646,Shagwell,Shagwell
+647,Sharna,Sharna
+648,Shireen-Baratheon,Shireen Baratheon
+649,Shitmouth,Shitmouth
+650,Shortear,Shortear
+651,Shrouded-Lord,Shrouded Lord
+652,Sigfryd-Harlaw,Sigfryd Harlaw
+653,Sigorn,Sigorn
+654,Simon-Toyne,Simon Toyne
+655,Skahaz-mo-Kandaq,Skahaz mo Kandaq
+656,Skinner,Skinner
+657,Small-Paul,Small Paul
+658,Smiling-Knight,Smiling Knight
+659,Softfoot,Softfoot
+660,Soren-Shieldbreaker,Soren Shieldbreaker
+661,Sour-Alyn,Sour Alyn
+662,Spare-Boot,Spare Boot
+663,Spotted-Cat,Spotted Cat
+664,Squint,Squint
+665,Squirrel,Squirrel
+666,Stafford-Lannister,Stafford Lannister
+667,Stannis-Baratheon,Stannis Baratheon
+668,Steelskin,Steelskin
+669,Steffon-Baratheon,Steffon Baratheon
+670,Steffon-Varner,Steffon Varner
+671,Stevron-Frey,Stevron Frey
+672,Stiv,Stiv
+673,Stonesnake,Stonesnake
+674,Stygg,Stygg
+675,Styr,Styr
+676,Sweets,Sweets
+677,Sybell-Spicer,Sybell Spicer
+678,Sybelle-Glover,Sybelle Glover
+679,Sylva-Santagar,Sylva Santagar
+680,Symon-Silver-Tongue,Symon Silver Tongue
+681,Symon-Stripeback,Symon Stripeback
+682,Symond-Templeton,Symond Templeton
+683,Syrio-Forel,Syrio Forel
+684,Taena-of-Myr,Taena of Myr
+685,Talbert-Serry,Talbert Serry
+686,Talea,Talea
+687,Tallad,Tallad
+688,Tanda-Stokeworth,Tanda Stokeworth
+689,Tansy,Tansy
+690,Tarber,Tarber
+691,Tattered-Prince,Tattered Prince
+692,Ternesio-Terys,Ternesio Terys
+693,Terrance-Lynderly,Terrance Lynderly
+694,Theobald,Theobald
+695,Theomore,Theomore
+696,Theon-Greyjoy,Theon Greyjoy
+697,Thistle,Thistle
+698,Thoren-Smallwood,Thoren Smallwood
+699,Thoros-of-Myr,Thoros of Myr
+700,Tickler,Tickler
+701,Timeon,Timeon
+702,Timett,Timett
+703,Timoth,Timoth
+704,Tion-Frey,Tion Frey
+705,Tobho-Mott,Tobho Mott
+706,Todder,Todder
+707,Tom-Barleycorn,Tom Barleycorn
+708,Tom-of-Sevenstreams,Tom of Sevenstreams
+709,Tomard,Tomard
+710,Tommen-Baratheon,Tommen Baratheon
+711,Torbert,Torbert
+712,Toregg,Toregg
+713,Torghen-Flint,Torghen Flint
+714,Torgon-Greyiron,Torgon Greyiron
+715,Tormund,Tormund
+716,Torrhen-Karstark,Torrhen Karstark
+717,Torrhen-Stark,Torrhen Stark
+718,Torwold-Browntooth,Torwold Browntooth
+719,Tregar,Tregar
+720,Tristifer-Botley,Tristifer Botley
+721,Tristifer-IV-Mudd,Tristifer IV Mudd
+722,Trystane-Martell,Trystane Martell
+723,Tybero-Istarion,Tybero Istarion
+724,Tycho-Nestoris,Tycho Nestoris
+725,Tyene-Sand,Tyene Sand
+726,Tyrion-Lannister,Tyrion Lannister
+727,Tysha,Tysha
+728,Tytos-Blackwood,Tytos Blackwood
+729,Tywin-Lannister,Tywin Lannister
+730,Ulf-son-of-Umar,Ulf son of Umar
+731,Ulmer,Ulmer
+732,Umma,Umma
+733,Unella,Unella
+734,Urswyck,Urswyck
+735,Urzen,Urzen
+736,Utherydes-Wayn,Utherydes Wayn
+737,Val,Val
+738,Varamyr,Varamyr
+739,Vardis-Egen,Vardis Egen
+740,Vargo-Hoat,Vargo Hoat
+741,Varly,Varly
+742,Varys,Varys
+743,Vayon-Poole,Vayon Poole
+744,Victarion-Greyjoy,Victarion Greyjoy
+745,Visenya-Targaryen,Visenya Targaryen
+746,Viserys-Targaryen,Viserys Targaryen
+747,Vylarr,Vylarr
+748,Vyman,Vyman
+749,Waif,Waif
+750,Walda-Frey-(daughter-of-Merrett),Walda Frey (daughter of Merrett)
+751,Walder-Frey,Walder Frey
+752,Walder-Frey-(son-of-Jammos),Walder Frey (son of Jammos)
+753,Walder-Frey-(son-of-Merrett),Walder Frey (son of Merrett)
+754,Walder-Rivers,Walder Rivers
+755,Walgrave,Walgrave
+756,Walton,Walton
+757,Watt,Watt
+758,Waymar-Royce,Waymar Royce
+759,Weasel,Weasel
+760,Weeper,Weeper
+761,Weese,Weese
+762,Wendel-Manderly,Wendel Manderly
+763,Werlag,Werlag
+764,Wex-Pyke,Wex Pyke
+765,Wick-Whittlestick,Wick Whittlestick
+766,Widower,Widower
+767,Will-(prologue),Will (prologue)
+768,Willam-Dustin,Willam Dustin
+769,Willas-Tyrell,Willas Tyrell
+770,Willem-Lannister,Willem Lannister
+771,William-Foxglove,William Foxglove
+772,Willis-Wode,Willis Wode
+773,Willow-Heddle,Willow Heddle
+774,Willow-Witch-eye,Willow Witch eye
+775,Woth,Woth
+776,Wulfe,Wulfe
+777,Wun-Weg-Wun-Dar-Wun,Wun Weg Wun Dar Wun
+778,Wyl-(guard),Wyl (guard)
+779,Wylis-Manderly,Wylis Manderly
+780,Wylla,Wylla
+781,Wyman-Manderly,Wyman Manderly
+782,Wynton-Stout,Wynton Stout
+783,Xaro-Xhoan-Daxos,Xaro Xhoan Daxos
+784,Xhondo,Xhondo
+785,Yandry,Yandry
+786,Yellow-Dick,Yellow Dick
+787,Yezzan-zo-Qaggaz,Yezzan zo Qaggaz
+788,Ygritte,Ygritte
+789,Yohn-Royce,Yohn Royce
+790,Yoren,Yoren
+791,Yorko-Terys,Yorko Terys
+792,Ysilla,Ysilla
+793,Yurkhaz-zo-Yunzak,Yurkhaz zo Yunzak
+794,Zei,Zei
+795,Zollo,Zollo
