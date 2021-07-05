@@ -5,6 +5,11 @@ from utility import *
 from template import getHTML
 
 def getColorGroup(dataList, key, bucketFlag = True):
+	if key is None:
+		for data in dataList:
+			data['colorGroup'] = 0
+		return dataList, 1
+		
 	weightList = np.array([data[key] for data in dataList], dtype = np.float64)
 
 	if not bucketFlag:
