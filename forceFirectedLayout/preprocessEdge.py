@@ -12,16 +12,20 @@ def updateDecomposition(edgeDataList, layerDict, waveDict, fragDict):
 
 if __name__ == '__main__':
 	## read data
-	name = 'asoiaf'
+	# name = 'asoiaf'
 	# name = 'njals_saga'
+	name = 'starwars'
 
-	fileColIntList = ['source', 'target', 'weight']
-	dataKeyIntList = ['source', 'target', 'value']
+	# fileColIntList = ['source', 'target', 'weight']
+	# dataKeyIntList = ['source', 'target', 'value']
 	# fileColIntList = ['source', 'target', 'value', 'direction', 'cycle']
 	# dataKeyIntList = fileColIntList
+	fileColIntList = ['source', 'target', 'frequency']
+	dataKeyIntList = ['source', 'target', 'value']
 
-	edgeDataList = readCSV(f'dataset/{name}_edges-numbered.csv', fileColIntList, dataKeyIntList)
+	# edgeDataList = readCSV(f'dataset/{name}_edges-numbered.csv', fileColIntList, dataKeyIntList)
 	# edgeDataList = readCSV(f'dataset/{name}_edges_multi.csv', fileColIntList, dataKeyIntList)
+	edgeDataList = readCSV(f'dataset/{name}_edges_clean.csv', fileColIntList, dataKeyIntList)
 
 
 	## prepare input
@@ -36,6 +40,7 @@ if __name__ == '__main__':
 	edgeDataList = updateDecomposition(edgeDataList, layerDict, waveDict, fragDict)
 
 	## write data
-	fileColList = ['source', 'target', 'value', 'layer', 'wave', 'fragment']
+	# fileColList = ['source', 'target', 'value', 'layer', 'wave', 'fragment']
 	# fileColList = ['source', 'target', 'value', 'direction', 'cycle', 'layer', 'wave', 'fragment']
+	fileColList = ['source', 'target', 'value', 'layer', 'wave', 'fragment']
 	writeCSVDict(f'dataset/preprocess/{name}_edges_decomposition.csv', fileColList, edgeDataList)

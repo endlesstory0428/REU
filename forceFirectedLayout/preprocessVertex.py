@@ -16,28 +16,37 @@ def filterIsolatedVertex(edgeList, peelDict, diversityDict, betweenDict, pageran
 
 if __name__ == '__main__':
 	## read data
-	name = 'asoiaf'
+	# name = 'asoiaf'
 	# name = 'njals_saga'
+	name = 'starwars'
 
-	fileColIntList = ['source', 'target', 'weight']
-	dataKeyIntList = ['source', 'target', 'value']
+	# fileColIntList = ['source', 'target', 'weight']
+	# dataKeyIntList = ['source', 'target', 'value']
 	# fileColIntList = ['source', 'target', 'value', 'direction', 'cycle']
 	# dataKeyIntList = fileColIntList
+	fileColIntList = ['source', 'target', 'frequency']
+	dataKeyIntList = ['source', 'target', 'value']
 
-	edgeDataList = readCSV(f'dataset/{name}_edges-numbered.csv', fileColIntList, dataKeyIntList)
+	# edgeDataList = readCSV(f'dataset/{name}_edges-numbered.csv', fileColIntList, dataKeyIntList)
 	# edgeDataList = readCSV(f'dataset/{name}_edges_multi.csv', fileColIntList, dataKeyIntList)
+	edgeDataList = readCSV(f'dataset/{name}_edges_clean.csv', fileColIntList, dataKeyIntList)
 
-	fileColIntList = ['id']
-	dataKeyIntList = ['id']
-	fileColStrList = ['Label']
-	dataKeyStrList = ['name']
+	# fileColIntList = ['id']
+	# dataKeyIntList = ['id']
+	# fileColStrList = ['Label']
+	# dataKeyStrList = ['name']
 	# fileColIntList = ['node_id']
 	# dataKeyIntList = ['id']
 	# fileColStrList = ['node_label']
 	# dataKeyStrList = ['name']
+	fileColIntList = ['id', 'frequency']
+	dataKeyIntList = ['id', 'value']
+	fileColStrList = ['name']
+	dataKeyStrList = ['name']
 
-	vertexDataList = readCSV(f'dataset/{name}_nodes-numbered.csv', fileColIntList, dataKeyIntList, fileColStrList, dataKeyStrList)
+	# vertexDataList = readCSV(f'dataset/{name}_nodes-numbered.csv', fileColIntList, dataKeyIntList, fileColStrList, dataKeyStrList)
 	# vertexDataList = readCSV(f'dataset/{name}_nodes.csv', fileColIntList, dataKeyIntList, fileColStrList, dataKeyStrList)
+	vertexDataList = readCSV(f'dataset/{name}_nodes_clean.csv', fileColIntList, dataKeyIntList, fileColStrList, dataKeyStrList)
 
 	## prepare input
 	edgeList = [(edge['source'], edge['target']) for edge in edgeDataList if edge['source'] != edge['target']]
@@ -65,6 +74,7 @@ if __name__ == '__main__':
 	normPagerankDict = normalize(pagerankDict)
 
 	## write data
-	fileColList = ['id', 'name', 'degree', 'peel', 'diversity', 'betweenness', 'pagerank', 'norm_peel', 'norm_diversity', 'norm_betweenness', 'norm_pagerank']
+	# fileColList = ['id', 'name', 'degree', 'peel', 'diversity', 'betweenness', 'pagerank', 'norm_peel', 'norm_diversity', 'norm_betweenness', 'norm_pagerank']
+	fileColList = ['id', 'name', 'value', 'degree', 'peel', 'diversity', 'betweenness', 'pagerank', 'norm_peel', 'norm_diversity', 'norm_betweenness', 'norm_pagerank']
 	dataList = [(vertex['id'], vertex['name'], len(adjListDict[vertex['id']]) ,peelDict[vertex['id']], diversityDict[vertex['id']], betweenDict[vertex['id']], pagerankDict[vertex['id']], normPeelDict[vertex['id']], normDiversityDict[vertex['id']], normBetweenDict[vertex['id']], normPagerankDict[vertex['id']]) for vertex in vertexDataList if vertex['id'] in peelDict]
 	writeCSVList(f'dataset/preprocess/{name}_nodes_prop.csv', fileColList, dataList)
